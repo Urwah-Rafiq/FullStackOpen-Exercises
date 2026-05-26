@@ -1,1 +1,1 @@
-Diagrams for exercises 0.4, 0.5, 0.6
+This Repository contains all of the exercises i have attempted for the Fullstack Open course.
