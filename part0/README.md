@@ -2,7 +2,7 @@ This file contains the exercises for part 0:
 
 Exercise 0.6:
 
-```
+```mermaid
 sequenceDiagram
     participant Client
     participant Server
